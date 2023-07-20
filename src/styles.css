@@ -1,0 +1,14 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.header {
+  padding: 10px;
+  border: dotted 1px black;
+}
+
+.comment-form {
+  padding: 10px;
+  border: solid 1px black;
+}
